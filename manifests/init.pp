@@ -22,6 +22,6 @@ class lzabagent{
      include lzabagent::firewall
      include lzabagent::template
 	
-        }
+    }
 
 
